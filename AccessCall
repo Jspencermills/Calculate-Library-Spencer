@@ -1,0 +1,16 @@
+//contains various methods that do math operations
+//@ author SpencerJ
+//@version 9/12/18
+public class Calculate{
+//int instead of void because we want the integers. we are going to return an integer. 
+//returns the quare of an integer
+  public static int square(int number) {
+    return number*number;
+    }
+}
+ OR
+ int answer;
+ answer = number*number;
+ return answer;
+  
+  
